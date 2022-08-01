@@ -1,0 +1,65 @@
+.login {
+    width: 80rem;
+    height: auto;
+    margin: auto;
+    margin-top: 3rem;
+
+    position: relative;
+}
+
+.login img {
+    width: 100%;
+}
+
+.formulario_alibaba {
+    width: 35rem;
+    height: 50rem;
+    background-color: rgba(71, 65, 65, 0.322);
+    border-radius: 3px;
+    margin-top: 4rem;
+
+    position: absolute;
+    top: 1rem;
+    left: 3rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.fa_titulo {
+    color: #fff;
+    font-size: 2rem;
+    margin-top: 15rem;
+    margin-bottom: 2rem;
+}
+
+.formulario_alibaba input {
+    padding-left: 1rem;
+    outline: none;
+}
+
+.formulario_alibaba input {
+    width: 25rem;
+    height: 3rem;
+    margin-top: 2rem;
+}
+
+.bt_entrar {
+    width: 10rem;
+    height: 3.5rem;
+    margin-top: 2.5rem;
+    background-color: rgb(250,96,25);
+    border-radius: 5px;
+    color: #fff;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.bt_entrar:hover {
+    transition: 0.3s;
+    background-color: rgb(253, 101, 30);
+    font-weight: 400;
+}

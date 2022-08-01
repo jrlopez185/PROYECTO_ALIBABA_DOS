@@ -1,0 +1,847 @@
+#root{
+    position: relative;
+}
+
+.h_Uno{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Supermercado One', cursive;
+font-size: 25px;
+top: 30px;
+left: 30px;
+position: absolute;
+color: black;
+text-decoration: none;
+}
+
+.h_dos{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Supermercado One', cursive;
+    font-size: 25px;
+    top: 30px;
+    left: 100px;
+    position: absolute;
+    color: black; 
+    text-decoration: none;
+}
+
+.h_tres{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Supermercado One', cursive;
+    font-size: 25px;
+    top: 30px;
+    left: 120px;
+    position: absolute;
+    color: black; 
+    text-decoration: none;
+}
+
+.h_cuatro{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Supermercado One', cursive;
+    font-size: 25px;
+    top: 30px;
+    left: 120px;
+    position: absolute;
+    color: black; 
+    text-decoration: none;
+}
+
+.h_cinco{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Supermercado One', cursive;
+    font-size: 25px;
+    top: 30px;
+    left: 30px;
+    position: absolute;
+    color: black; 
+    text-decoration: none;
+}
+
+.h_seis{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Supermercado One', cursive;
+    font-size: 25px;
+    top: 30px;
+    left: 20px;
+    position: absolute;
+    color: black; 
+    text-decoration: none;
+}
+
+.h_siete{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Supermercado One', cursive;
+    font-size: 25px;
+    top: 30px;
+    left: 30px;
+    position: absolute;
+    color: black; 
+    text-decoration: none;
+}
+
+.h_ocho{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Supermercado One', cursive;
+    font-size: 25px;
+    top: 30px;
+    left: 20px;
+    position: absolute;
+    color: black; 
+    text-decoration: none;
+}
+
+.h_nueve{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Supermercado One', cursive;
+    font-size: 25px;
+    top: 30px;
+    left: 120px;
+    position: absolute;
+    color: black; 
+    text-decoration: none;
+}
+
+.h_dies{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Supermercado One', cursive;
+    font-size: 25px;
+    top: 30px;
+    left: 0px;
+    position: absolute;
+    color: black; 
+    text-decoration: none;
+}
+
+.h_once{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Supermercado One', cursive;
+    font-size: 25px;
+    top: 30px;
+    left: 30px;
+    position: absolute;
+    color: black; 
+    text-decoration: none;
+}
+
+.h_doce{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Supermercado One', cursive;
+    font-size: 25px;
+    top: 30px;
+    left: 80px;
+    position: absolute;
+    color: black; 
+    text-decoration: none;
+}
+
+.h_trece{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Supermercado One', cursive;
+    font-size: 25px;
+    top: 30px;
+    left: 120px;
+    position: absolute;
+    color: black; 
+    text-decoration: none;
+}
+
+.h_catorce{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Supermercado One', cursive;
+    font-size: 25px;
+    top: 30px;
+    left: 30px;
+    position: absolute;
+    color: black; 
+    text-decoration: none;
+}
+
+.h_quince{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Supermercado One', cursive;
+    font-size: 25px;
+    top: 30px;
+    left: 120px;
+    position: absolute;
+    color: black; 
+    text-decoration: none;
+}
+
+body{
+    background: linear-gradient(223.65deg, #FE942A 34.07%, #FF7632 69.03%);
+    height: 100pc;
+}
+
+.contenedor{
+position: absolute;
+width: 1100px;
+height: 1450px;
+background: linear-gradient(180deg, #D9D9D9 0%, #2E303C 0%, #393F55 100%);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+left:120px;
+top: 70px;
+}
+
+.menu{
+    width: 350px;
+    height: 1450px;
+    background: #FF8030;
+}
+
+.uno{
+    background: #FF8030;
+    width: 300px;
+    height: 85px;
+    border-radius: 5px;
+    position: absolute;
+    left: 24px;
+    border-style: solid;
+    border-color:white;
+    opacity: 70%;
+}
+
+.dos{
+    background: #FF8030;
+    width: 300px;
+    height: 85px;
+    border-radius: 5px;
+    position: absolute;
+    left: 24px;
+    top: 95px;
+    border-style: solid;
+    border-color:white;
+    opacity: 70%;
+}
+
+.tres{
+    background: #FF8030;
+    width: 300px;
+    height: 85px;
+    border-radius: 5px;
+    position: absolute;
+    top: 190px;
+    left: 24px;
+    border-style: solid;
+    border-color:white;
+    opacity: 70%;
+}
+
+.cuatro{
+    background: #FF8030;
+    width: 300px;
+    height: 85px;
+    border-radius: 5px;
+    position: absolute;
+    top: 285px;
+    left: 24px;
+    border-style: solid;
+    border-color:white;
+    opacity: 70%;
+}
+
+.cinco{
+    background: #FF8030;
+    width: 300px;
+    height: 85px;
+    border-radius: 5px;
+    position: absolute;
+    top: 380px;
+    left: 24px;
+    border-style: solid;
+    border-color:white;
+    opacity: 70%;
+}
+
+.seis{
+    background: #FF8030;
+    width: 300px;
+    height: 85px;
+    border-radius: 5px;
+    position: absolute;
+    top: 475px;
+    left: 24px;
+    border-style: solid;
+    border-color:white;
+    opacity: 70%;
+}
+
+.siete{
+    background: #FF8030;
+    width: 300px;
+    height: 85px;
+    border-radius: 5px;
+    position: absolute;
+    top: 570px;
+    left: 24px;
+    border-style: solid;
+    border-color:white;
+    opacity: 70%;
+}
+
+.ocho{
+    background: #FF8030;
+    width: 300px;
+    height: 85px;
+    border-radius: 5px;
+    position: absolute;
+    top: 665px;
+    left: 24px;
+    border-style: solid;
+    border-color:white;
+    opacity: 70%;
+}
+
+.nueve{
+    background: #FF8030;
+    width: 300px;
+    height: 85px;
+    border-radius: 5px;
+    position: absolute;
+    top: 760px;
+    left: 24px;
+    border-style: solid;
+    border-color:white;
+    opacity: 70%;
+}
+
+.dies{
+    background: #FF8030;
+    width: 300px;
+    height: 85px;
+    border-radius: 5px;
+    position: absolute;
+    top: 855px;
+    left: 24px;
+    border-style: solid;
+    border-color:white;
+    opacity: 70%;
+}
+
+.once{
+    background: #FF8030;
+    width: 300px;
+    height: 85px;
+    border-radius: 5px;
+    position: absolute;
+    top: 950px;
+    left: 24px;
+    border-style: solid;
+    border-color:white;
+    opacity: 70%;
+}
+
+.doce{
+    background: #FF8030;
+    width: 300px;
+    height: 85px;
+    border-radius: 5px;
+    position: absolute;
+    left: 24px;
+    top: 1045px;
+    border-style: solid;
+    border-color:white;
+    opacity: 70%;
+}
+
+.trece{
+    background: #FF8030;
+    width: 300px;
+    height: 85px;
+    border-radius: 5px;
+    position: absolute;
+    top: 1140px;
+    left: 24px;
+    border-style: solid;
+    border-color:white;
+    opacity: 70%;
+}
+
+.catorce{
+    background: #FF8030;
+    width: 300px;
+    height: 85px;
+    border-radius: 5px;
+    position: absolute;
+    top: 1235px;
+    left: 24px;
+    border-style: solid;
+    border-color:white;
+    opacity: 70%;
+}
+
+.quince{
+    background: #FF8030;
+    width: 300px;
+    height: 85px;
+    border-radius: 5px;
+    position: absolute;
+    top: 1330px;
+    left: 24px;
+    border-style: solid;
+    border-color:white;
+    opacity: 70%; 
+}
+
+.respuesta{
+    background-color: #FE942A;
+    width: 600px;
+    height: 1300px;
+    margin: 0;
+    padding: 0;
+    top: 50px;
+    left: 420px;
+    position: absolute;
+    border-radius: 5px;
+}
+
+.imagen{
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: -15px;
+    left: 650px;
+}
+
+#Carts_has_products{
+    position: absolute;
+}
+
+.cerrarSesión{
+    position: absolute;
+    top:20px;
+    border: white solid 1px;
+    background-color: #FE942A;
+    padding: 1rem;
+    text-decoration: none;
+    border-radius: 5px;
+    left: 750px;
+    color: black;
+    z-index: 1;
+}
+
+.Contenedor2{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    left: 500px;
+}
+
+.titulo2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    text-align: center;
+    /*background-color: red;*/
+    position: absolute;
+    left: 200px;
+    top: 70px;
+}
+
+.id{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+
+.id2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    position: absolute;
+    top: 200px;
+    left: 150px;  
+}
+
+.id3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    position: absolute;
+    top: 250px;
+    left: 150px;
+}
+
+.id4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    position: absolute;
+    top: 300px;
+    left: 150px;
+}
+
+.id5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    position: absolute;
+    top: 350px;
+    left: 150px;
+}
+
+.id6{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    position: absolute;
+    top: 400px;
+    left: 150px;
+}
+
+.id7{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    position: absolute;
+    top: 450px;
+    left: 150px;
+}
+
+.numero{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    position: absolute;
+    top: 150px;
+    left: 450px;
+}
+
+.numero2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    position: absolute;
+    top: 200px;
+    left: 450px;  
+}
+
+.numero3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    position: absolute;
+    top: 250px;
+    left: 450px;
+}
+
+
+.numero4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    position: absolute;
+    top: 300px;
+    left: 420px;
+}
+
+.numero5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    position: absolute;
+    top: 350px;
+    left: 380px;
+}
+
+.numero6{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    position: absolute;
+    top: 400px;
+    left: 430px;
+}
+
+.numero7{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    position: absolute;
+    top: 450px;
+    left: 430px;
+}
+
+.columnas1{
+    text-align: center;
+    font-size: 13px;
+}
+
+
+
+.Tabla1{
+    position: absolute;
+    left: 740px;
+    top: 50px;
+}
+
+.casillas1{
+    text-align: center;
+    font-size: 20px;
+}
+
+.casillasUno{
+    
+}
+
+.casillas{
+    font-size: 20px;
+    text-align: center;
+}
+
+.casillasoo{
+    font-size: 20px;
+    text-align: center;
+}
+
+.casillas2{
+    font-size: 20px;
+}
+
+.Tabla1{
+    width: 602px;
+    height: 1350px;
+    font-size: 10rem;
+    background-color: #393F55;
+    color: white;
+
+    left: 540px;
+    top: 17px;
+    position: absolute;
+}
+
+.Tabla2{
+    width: 602px;
+    height: 1350px;
+    font-size: 10rem;
+    background-color: #393F55;
+    color: white;
+
+
+    left: 540px;
+    top: 100px;
+    position: absolute;
+}
+
+.Tabla5{
+    width: 602px;
+    height: 1350px;
+    background-color: #393F55;
+    color: white;
+
+
+    left: 540px;
+    top: 100px;
+    position: absolute;
+    font-size: 20px
+}
+
+.Tabla22{
+    width: 602px;
+    height: 1350px;
+    background-color: #393F55;
+    color: white;
+
+
+    left: 540px;
+    top: 100px;
+    position: absolute;
+}
+
+.Tabla222{
+    width: 602px;
+    height: 1350px;
+    background-color: #393F55;
+    color: white;
+    font-size: 20px;
+
+
+    left: 540px;
+    top: 100px;
+    position: absolute;
+}
+
+.TablaL{
+    width: 602px;
+    height: 1350px;
+    background-color: #393F55;
+    color: white;
+    font-size: 20px;
+
+
+    left: 540px;
+    top: 100px;
+    position: absolute;
+}
+
+.TablaO{
+    width: 602px;
+    height: 1350px;
+    background-color: #393F55;
+    color: white;
+    font-size: 20px;
+
+
+    left: 540px;
+    top: 100px;
+    position: absolute;
+}
+
+.TablaE{
+    z-index: 1;
+    left: 540px;
+    top: 100px;
+    position: absolute;
+
+    width: 602px;
+    height: 400px;
+    background-color: #393F55;
+    color: white;
+    font-size: 15px;
+}
+
+.TablaU{
+    z-index: 1;
+    left: 540px;
+    top: 550px;
+    position: absolute;
+
+
+    width: 602px;
+    height: 350px;
+    background-color: #393F55;
+    color: white;
+    font-size: 15px;
+}
+
+.TablaD{
+    width: 602px;
+    height: 1350px;
+    background-color: #393F55;
+    color: white;
+    font-size: 20px;
+
+
+    left: 540px;
+    top: 100px;
+    position: absolute;}
+
+    .TablaN{
+        z-index: 1;
+        left: 540px;
+        top: 100px;
+        position: absolute;
+    
+        width: 602px;
+        height: 400px;
+        background-color: #393F55;
+        color: white;
+        font-size: -10px;
+        text-align: center;
+    }
+
+.TablaSS{
+    z-index: 1;
+    left: 540px;
+    top: 680px;
+    position: absolute;
+
+
+    width: 602px;
+    height: 350px;
+    background-color: #393F55;
+    color: white;
+    font-size: 15px;
+}
+
+.TablaG{
+    width: 602px;
+    height: 1350px;
+    background-color: #393F55;
+    color: white;
+    font-size: 20px;
+
+
+    left: 540px;
+    top: 100px;
+    position: absolute;
+}

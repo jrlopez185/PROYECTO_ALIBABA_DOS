@@ -1,0 +1,42 @@
+.administrador {
+    max-width: 136rem;
+    height: auto;
+    margin: auto;
+
+    background-color: rebeccapurple;
+
+    display: none;
+    grid-template-columns: repeat(6,1fr);
+    grid-template-rows: repeat(19,5rem);
+}
+.activar {
+    display: grid;
+}
+
+
+#header {
+    background-color: orange;
+
+    grid-column-start: 1;
+    grid-column-end: 7;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+#nav_left {
+    background-color: red;
+
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 20;
+}
+
+#contenido {
+    background-color: green;
+
+    grid-column-start: 2;
+    grid-column-end: 7;
+    grid-row-start: 2;
+    grid-row-end: 20;
+}
